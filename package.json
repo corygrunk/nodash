@@ -1,0 +1,23 @@
+{
+  "name": "nodash",
+  "version": "1.0.0",
+  "description": "A dashboard built with Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corygrunk/nodash.git"
+  },
+  "author": "Cory Grunkemeyer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/corygrunk/nodash/issues"
+  },
+  "homepage": "https://github.com/corygrunk/nodash#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "jade": "^1.11.0"
+  }
+}
